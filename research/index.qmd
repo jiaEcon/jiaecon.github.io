@@ -1,0 +1,24 @@
+---
+title: "Research"
+listing:
+  - id: working-papers
+    contents: "wp-*.qmd"
+    type: default
+    sort: "order"
+    fields: [title, subtitle, author, description]
+  - id: in-progress
+    contents: "wip-*.qmd"
+    type: default
+    sort: "order"
+    fields: [title, author, description]
+---
+
+## Working Papers
+
+::: {#working-papers}
+:::
+
+## Work in Progress
+
+::: {#in-progress}
+:::

@@ -1,0 +1,27 @@
+---
+title: "Pension Reform, Child Investment, and Household Saving in China"
+subtitle: "Job Market Paper"
+author: Jia Liu
+order: 1
+description: "How a 1997 pension reform in urban China changed household saving and investment in children's education."
+---
+
+[<i class="bi bi-file-earmark-pdf"></i> Paper (PDF)](../files/Liu_Jia_JMP.pdf){.btn .btn-outline-primary}
+
+## Abstract
+
+Seniors may rely on savings or support from adult children. This provides an incentive
+for parents, when young, to invest in their children's human capital. Pension policies,
+therefore, can affect young parents' savings behavior, as well as investment in their
+children's education. I study the impact of a 1997 pension reform in urban China on
+household savings and child investment using a difference-in-differences approach. A
+decrease in pension benefits leads to higher savings and investment in children of
+working-age households. I then estimate adult children's transfers to their parents as a
+function of their education level, the number of siblings, and senior parents' pension
+income. Both the number of children and the adult children's human capital are
+positively correlated with transfers to senior parents. Senior parents' pension income
+crowds out adult children's transfers. That is consistent with the assumption that
+pensions, adult children's supports, and savings are substitutes.
+
+**Keywords:** pension reform, human capital accumulation, intergenerational transfers,
+household savings

@@ -1,0 +1,30 @@
+---
+title: "Jia Liu"
+subtitle: "Economist · Consultant, The World Bank"
+about:
+  template: jolla
+  # To add a photo: save it as profile.jpg in this folder and uncomment the next line
+  # image: profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:liujiaenv@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/jiaEcon
+---
+
+I am an economist working as a consultant at the **World Bank** in Washington, DC.
+I received my Ph.D. in Economics from the **University of Houston** in 2023.
+
+My research interests are macroeconomics, development economics, and public economics.
+I study household economic decisions concerning consumption, saving, fertility, and
+human capital formation using calibrated life-cycle/OLG models and econometric methods.
+At the World Bank, I work on labor markets, long-term growth, inequality, and
+middle-class formation in developing economies.
+
+**Research fields:** Macroeconomics · Development Economics · Public Economics
+
+**CV:** [Download (PDF)](files/cv.pdf)
+
+**Contact:** [liujiaenv@gmail.com](mailto:liujiaenv@gmail.com) · The World Bank, 1818 H Street NW, Washington, DC 20433

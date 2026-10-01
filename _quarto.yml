@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  title: "Jia Liu"
+  favicon: logo.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/cv.pdf
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:liujiaenv@gmail.com
+  page-footer:
+    center: "© 2026 Jia Liu · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor:
+  render-on-save: true
