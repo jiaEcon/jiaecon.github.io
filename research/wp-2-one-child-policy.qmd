@@ -5,6 +5,8 @@ order: 2
 description: "An OLG model with endogenous fertility and human capital to quantify how demographic and pension policies shape household saving."
 ---
 
+<!-- [<i class="bi bi-file-earmark-pdf"></i> Paper (PDF)](../files/Liu_Jia_OCP.pdf){.btn .btn-outline-primary} -->
+
 ## Abstract
 
 This paper examines the impact of the One-child policy and pension reforms on household
