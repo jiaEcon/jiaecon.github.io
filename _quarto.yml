@@ -32,6 +32,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="I25U0Di0AgxMCj4swJsAAJdfg6iRyI_QS4HBXw4oCBU" />
 
 editor:
   render-on-save: true
