@@ -1,6 +1,7 @@
 ---
 title: "Jia Liu"
 subtitle: "Economist · Consultant, The World Bank"
+description: "Jia Liu, economist at the World Bank (Ph.D. Economics, University of Houston). Research on pensions, household saving, fertility, and human capital in China."
 about:
   template: jolla
   # To add a photo: save it as profile.jpg in this folder and uncomment the next line

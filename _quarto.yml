@@ -3,9 +3,13 @@ project:
   output-dir: docs
   resources:
     - files/
+    - robots.txt
 
 website:
   title: "Jia Liu"
+  site-url: https://jiaecon.github.io
+  description: "Jia Liu, economist at the World Bank. Research on macroeconomics, development economics, and public economics: pensions, household saving, and human capital in China."
+  open-graph: true
   favicon: logo.png
   navbar:
     left:
