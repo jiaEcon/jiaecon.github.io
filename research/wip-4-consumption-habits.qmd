@@ -1,9 +1,9 @@
 ---
 title: "Welfare Impacts of Consumption Habits with Income Shocks"
 author:
-  - Jia Liu
   - Nabila Biju
-order: 1
+  - Jia Liu 
+order: 4
 description: "Work in progress."
 ---
 

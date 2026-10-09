@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jia Liu",
     "section": "",
-    "text": "I am a consultant at the World Bank in Washington, DC. I received my Ph.D. in Economics from the University of Houston in 2023.\nI study how economic development and structural transformation shape labor markets, economic mobility, inequality, and long-run growth in developing and emerging economies. My research examines how individual and household decisions and broader processes of structural transformation shape economic mobility, earnings, and long-run economic development.\nMy work brings together questions at the micro and macro levels. I study household decisions concerning consumption, saving, fertility, and human capital formation, as well as how labor-market opportunities and structural change affect workers and economies. My current research interests include labor transitions, intergenerational mobility, investment, productivity, and the distribution of economic opportunities.\nI combine large-scale microdata, macroeconomic evidence, and quantitative and econometric methods to connect individual economic outcomes with broader processes of development. My broader goal is to understand how economic opportunities evolve, how individuals and economies respond to these changes, and what these dynamics imply for long-run growth and inequality.\nResearch fields: Macroeconomics · Development Economics · Public Economics\nCV: Download (PDF)\nContact: liujiaenv@gmail.com · The World Bank, 1818 H Street NW, Washington, DC 20433"
+    "text": "I am a consultant at the World Bank in Washington, DC. I received my Ph.D. in Economics from the University of Houston in 2023.\nI study economic development, labor markets, and inequality. My research examines how structural transformation and economic change shape labor-market opportunities, intergenerational mobility, and long-run growth.\nMy research bridges microeconomic and macroeconomic perspectives on development. At the household level, I study how people make decisions about labor supply, consumption, saving, fertility, etc. At the aggregate level, I examine how shifts in labor markets and productive structure shape productivity, economic mobility, and access to opportunity. My current work focuses on labor market transitions, investment, and productivity growth. Across these projects, I ask two connected questions: what drives economic development, and who shares in its gains?\n\nResearch fields: Macroeconomics · Development Economics · Labor Economics\nCV: Download (PDF)\nContact: liujiaenv@gmail.com · The World Bank, 1818 H Street NW, Washington, DC 20433"
   },
   {
     "objectID": "research/wp-2-one-child-policy.html",
@@ -19,6 +19,41 @@
     "title": "One-Child Policy, Pension Reform, and Household Saving Rates in China",
     "section": "",
     "text": "This paper examines the impact of the One-child policy and pension reforms on household savings in China using an overlapping generations model. The model incorporates intergenerational transfer, endogenous fertility, human capital investment, and pension system by extending the framework in Choukhmane et al. (2013). Using the parameters calibrated with microdata in Choukhmane et al. (2013), I find that the one-child policy increases individual household saving rates across all age groups and it leads to a relatively flat age-saving profile. One-child policy also increases investment in the human capital of children. The model predicts that an increase in pension benefits discourages household savings and decreases investment in the human capital of children. However, responses vary across households with different initial wealth."
+  },
+  {
+    "objectID": "research/wip-4-consumption-habits.html",
+    "href": "research/wip-4-consumption-habits.html",
+    "title": "Welfare Impacts of Consumption Habits with Income Shocks",
+    "section": "",
+    "text": "Work in progress, joint with Nabila Biju."
+  },
+  {
+    "objectID": "research/wip-1-labor-transitions.html",
+    "href": "research/wip-1-labor-transitions.html",
+    "title": "Labor Transitions into Wage Employment across Cohorts",
+    "section": "",
+    "text": "Transitions from non-wage to wage employment are critical for poverty reduction and economic growth, yet empirical evidence on these dynamics in developing economies remains scarce. Formal wage employment offers income stability, higher productivity, and welfare gains, but labor markets in these contexts exhibit high job turnover without sustained upward mobility. This paper examines intra- and inter-cohort employment transitions, distinguishing subsistence from entrepreneurial self-employment, and evaluates their impact on income and welfare."
+  },
+  {
+    "objectID": "research/wip-1-labor-transitions.html#abstract",
+    "href": "research/wip-1-labor-transitions.html#abstract",
+    "title": "Labor Transitions into Wage Employment across Cohorts",
+    "section": "",
+    "text": "Transitions from non-wage to wage employment are critical for poverty reduction and economic growth, yet empirical evidence on these dynamics in developing economies remains scarce. Formal wage employment offers income stability, higher productivity, and welfare gains, but labor markets in these contexts exhibit high job turnover without sustained upward mobility. This paper examines intra- and inter-cohort employment transitions, distinguishing subsistence from entrepreneurial self-employment, and evaluates their impact on income and welfare."
+  },
+  {
+    "objectID": "research/wp-1-pension-reform.html",
+    "href": "research/wp-1-pension-reform.html",
+    "title": "Pension Reform, Child Investment, and Household Saving in China",
+    "section": "",
+    "text": "Paper (PDF)"
+  },
+  {
+    "objectID": "research/wp-1-pension-reform.html#abstract",
+    "href": "research/wp-1-pension-reform.html#abstract",
+    "title": "Pension Reform, Child Investment, and Household Saving in China",
+    "section": "Abstract",
+    "text": "Abstract\nSeniors may rely on savings or support from adult children. This provides an incentive for parents, when young, to invest in their children’s human capital. Pension policies, therefore, can affect young parents’ savings behavior, as well as investment in their children’s education. I study the impact of a 1997 pension reform in urban China on household savings and child investment using a difference-in-differences approach. A decrease in pension benefits leads to higher savings and investment in children of working-age households. I then estimate adult children’s transfers to their parents as a function of their education level, the number of siblings, and senior parents’ pension income. Both the number of children and the adult children’s human capital are positively correlated with transfers to senior parents. Senior parents’ pension income crowds out adult children’s transfers. That is consistent with the assumption that pensions, adult children’s supports, and savings are substitutes.\nKeywords: pension reform, human capital accumulation, intergenerational transfers, household savings"
   },
   {
     "objectID": "research/index.html",
@@ -39,28 +74,7 @@
     "href": "research/index.html#work-in-progress",
     "title": "Research",
     "section": "Work in Progress",
-    "text": "Work in Progress\n\n\n\n\n\nWelfare Impacts of Consumption Habits with Income Shocks\n\n\nWork in progress.\n\n\n\n\n\nJia Liu, Nabila Biju\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/wp-1-pension-reform.html",
-    "href": "research/wp-1-pension-reform.html",
-    "title": "Pension Reform, Child Investment, and Household Saving in China",
-    "section": "",
-    "text": "Paper (PDF)"
-  },
-  {
-    "objectID": "research/wp-1-pension-reform.html#abstract",
-    "href": "research/wp-1-pension-reform.html#abstract",
-    "title": "Pension Reform, Child Investment, and Household Saving in China",
-    "section": "Abstract",
-    "text": "Abstract\nSeniors may rely on savings or support from adult children. This provides an incentive for parents, when young, to invest in their children’s human capital. Pension policies, therefore, can affect young parents’ savings behavior, as well as investment in their children’s education. I study the impact of a 1997 pension reform in urban China on household savings and child investment using a difference-in-differences approach. A decrease in pension benefits leads to higher savings and investment in children of working-age households. I then estimate adult children’s transfers to their parents as a function of their education level, the number of siblings, and senior parents’ pension income. Both the number of children and the adult children’s human capital are positively correlated with transfers to senior parents. Senior parents’ pension income crowds out adult children’s transfers. That is consistent with the assumption that pensions, adult children’s supports, and savings are substitutes.\nKeywords: pension reform, human capital accumulation, intergenerational transfers, household savings"
-  },
-  {
-    "objectID": "research/wip-1-consumption-habits.html",
-    "href": "research/wip-1-consumption-habits.html",
-    "title": "Welfare Impacts of Consumption Habits with Income Shocks",
-    "section": "",
-    "text": "Work in progress, joint with Nabila Biju."
+    "text": "Work in Progress\n\n\n\n\n\nLabor Transitions into Wage Employment across Cohorts\n\n\nLabor transition dynamics in developing economies and their implications for income and welfare.\n\n\n\n\n\nJia Liu, Regina Pleninger, Nishant Yonzan, Jing Xie\n\n\n\n\n\n\n\nClimbing the Job Ladder: Seniority, Job Switching, and Long-Run Career Progression\n\n\nWork in progress. Joint with Regina Pleninger and Shu Yu.\n\n\n\n\n\nJia Liu, Regina Pleninger, Shu Yu\n\n\n\n\n\n\n\nWelfare Impacts of Consumption Habits with Income Shocks\n\n\nWork in progress.\n\n\n\n\n\nNabila Biju, Jia Liu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html",

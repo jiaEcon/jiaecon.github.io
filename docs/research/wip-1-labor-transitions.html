@@ -6,8 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jia Liu">
+<meta name="author" content="Regina Pleninger">
+<meta name="author" content="Nishant Yonzan">
+<meta name="author" content="Jing Xie">
+<meta name="description" content="Labor transition dynamics in developing economies and their implications for income and welfare.">
 
-<title>Research – Jia Liu</title>
+<title>Labor Transitions into Wage Employment across Cohorts – Jia Liu</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -37,8 +42,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../logo.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -76,97 +79,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-in-progress .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-in-progress'] = new List('listing-in-progress', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <meta name="google-site-verification" content="I25U0Di0AgxMCj4swJsAAJdfg6iRyI_QS4HBXw4oCBU">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Research – Jia Liu">
+<meta property="og:title" content="Labor Transitions into Wage Employment across Cohorts – Jia Liu">
+<meta property="og:description" content="Labor transition dynamics in developing economies and their implications for income and welfare.">
 <meta property="og:site_name" content="Jia Liu">
 </head>
 
@@ -192,7 +110,7 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../research/index.html" aria-current="page"> 
+    <a class="nav-link" href="../research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -227,13 +145,27 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Labor Transitions into Wage Employment across Cohorts</h1>
 </div>
 
+<div>
+  <div class="description">
+    Labor transition dynamics in developing economies and their implications for income and welfare.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jia Liu </p>
+             <p>Regina Pleninger </p>
+             <p>Nishant Yonzan </p>
+             <p>Jing Xie </p>
+          </div>
+  </div>
     
   
     
@@ -244,127 +176,9 @@ window.Quarto = {
 </header>
 
 
-<section id="working-papers" class="level2">
-<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
-<div id="listing-working-papers" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1790863375205" data-listing-reading-time-sort="1" data-listing-word-count-sort="150">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wp-1-pension-reform.html" class="no-external">Pension Reform, Child Investment, and Household Saving in China</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/wp-1-pension-reform.html" class="no-external">Job Market Paper</a>
-</div>
-<div class="delink listing-description"><a href="../research/wp-1-pension-reform.html" class="no-external">
-<p>How a 1997 pension reform in urban China changed household saving and investment in children’s education.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wp-1-pension-reform.html" class="no-external">
-<div class="listing-author">
-Jia Liu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1790957861008" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wp-2-one-child-policy.html" class="no-external">One-Child Policy, Pension Reform, and Household Saving Rates in China</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../research/wp-2-one-child-policy.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../research/wp-2-one-child-policy.html" class="no-external">
-<p>An OLG model with endogenous fertility and human capital to quantify how demographic and pension policies shape household saving.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wp-2-one-child-policy.html" class="no-external">
-<div class="listing-author">
-Jia Liu
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="work-in-progress" class="level2">
-<h2 class="anchored" data-anchor-id="work-in-progress">Work in Progress</h2>
-<div id="listing-in-progress" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1791575773430" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-1-labor-transitions.html" class="no-external">Labor Transitions into Wage Employment across Cohorts</a>
-</h3>
-<div class="delink listing-description"><a href="../research/wip-1-labor-transitions.html" class="no-external">
-<p>Labor transition dynamics in developing economies and their implications for income and welfare.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wip-1-labor-transitions.html" class="no-external">
-<div class="listing-author">
-Jia Liu, Regina Pleninger, Nishant Yonzan, Jing Xie
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1791575763876" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-3-job-ladder.html" class="no-external">Climbing the Job Ladder: Seniority, Job Switching, and Long-Run Career Progression</a>
-</h3>
-<div class="delink listing-description"><a href="../research/wip-3-job-ladder.html" class="no-external">
-<p>Work in progress. Joint with Regina Pleninger and Shu Yu.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wip-3-job-ladder.html" class="no-external">
-<div class="listing-author">
-Jia Liu, Regina Pleninger, Shu Yu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1791575771290" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-4-consumption-habits.html" class="no-external">Welfare Impacts of Consumption Habits with Income Shocks</a>
-</h3>
-<div class="delink listing-description"><a href="../research/wip-4-consumption-habits.html" class="no-external">
-<p>Work in progress.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wip-4-consumption-habits.html" class="no-external">
-<div class="listing-author">
-Nabila Biju, Jia Liu
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1791575749944" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../research/wip-2-LTGM-database.html" class="no-external"></a>
-</h3>
-<div class="delink listing-description"><a href="../research/wip-2-LTGM-database.html" class="no-external">
-
-</a></div>
-</div>
-<div class="metadata">
-<a href="../research/wip-2-LTGM-database.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Transitions from non-wage to wage employment are critical for poverty reduction and economic growth, yet empirical evidence on these dynamics in developing economies remains scarce. Formal wage employment offers income stability, higher productivity, and welfare gains, but labor markets in these contexts exhibit high job turnover without sustained upward mobility. This paper examines intra- and inter-cohort employment transitions, distinguishing subsistence from entrepreneurial self-employment, and evaluates their impact on income and welfare.</p>
 
 
 </section>

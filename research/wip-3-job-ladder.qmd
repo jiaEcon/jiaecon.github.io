@@ -1,0 +1,11 @@
+---
+title: "Climbing the Job Ladder: Seniority, Job Switching, and Long-Run Career Progression"
+author:
+  - Jia Liu
+  - Regina Pleninger 
+  - Shu Yu
+order: 3
+description: "Work in progress. Joint with Regina Pleninger and Shu Yu."
+---
+
+<!-- ## Abstract  -->

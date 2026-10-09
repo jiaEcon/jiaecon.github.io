@@ -1,0 +1,13 @@
+---
+title: "Labor Transitions into Wage Employment across Cohorts"
+author:
+  - Jia Liu
+  - Regina Pleninger 
+  - Nishant Yonzan
+  - Jing Xie
+order: 1
+description: "Labor transition dynamics in developing economies and their implications for income and welfare."
+---
+
+## Abstract 
+Transitions from non-wage to wage employment are critical for poverty reduction and economic growth, yet empirical evidence on these dynamics in developing economies remains scarce. Formal wage employment offers income stability, higher productivity, and welfare gains, but labor markets in these contexts exhibit high job turnover without sustained upward mobility. This paper examines intra- and inter-cohort employment transitions, distinguishing subsistence from entrepreneurial self-employment, and evaluates their impact on income and welfare. 
