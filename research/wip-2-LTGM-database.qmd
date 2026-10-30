@@ -1,11 +1,11 @@
-<!-- ---
-title: "LTGM"
+---
+title: "Forecasting Future Growth Fundamentals in Developing Countries: Simple Rules, a New Dataset and Some Implications"
 author:
   - Jia Liu
   - Arthur Mendes
   - Steven Pennings
 order: 2
-description: ""
---- -->
+description: "Work in progress. Joint with Arthur Mendes and Steven Pennings."
+---
 
 <!-- ## Abstract  -->
